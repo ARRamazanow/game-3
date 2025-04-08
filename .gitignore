@@ -5,12 +5,5 @@ node_modules
 .env
 .tmp
 .AppData
-
-.vscode/
-.idea/
-
-.DS_Store
 Thumbs.db
-
-*.env
-*.secret
+.secret
