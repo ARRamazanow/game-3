@@ -40,8 +40,8 @@ function playRound(playerSelection, computerSelection) {
     }
 }
 
-const winSound = new Audio('./you-win'); 
-const loseSound = new Audio('./you-lose'); 
+const winSound = new Audio('./you-win.wav'); 
+const loseSound = new Audio('./you-lose.wav'); 
 
 
 function showFullScreenMessage(message) {
